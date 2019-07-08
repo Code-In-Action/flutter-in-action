@@ -1,9 +1,10 @@
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import 'app.dart';
-import 'model/app_state_model.dart';    
+import 'model/app_state_model.dart';
 
 void main() {
   // This app is designed only to work vertically, so we limit
