@@ -1,0 +1,22 @@
+name: cupertino_store
+description: Creating a Store in Cupertino widgets
+
+environment:
+ sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+ flutter:
+   sdk: flutter
+
+ cupertino_icons: ^0.1.2
+ intl: ^0.15.7
+ provider: ^2.0.0+1
+ shrine_images: ^1.0.0
+
+dev_dependencies:
+ pedantic: ^1.4.0
+
+flutter:
+ 
+ assets:
+   - packages/shrine_images/0-0.jpg
